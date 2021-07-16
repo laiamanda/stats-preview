@@ -16,6 +16,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
+Recreating the screenshot image using HTML5 and CSS
+
 ### The challenge
 
 Users should be able to:
@@ -24,14 +26,20 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Screenshot](https://github.com/laiamanda/stats-preview/blob/main/design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My URL](https://github.com/laiamanda/stats-preview)
+- Live Site URL: [My URL](https://stats-challenge-amanda.netlify.app/)
 
 ## My process
+
+1. Made a Github Repo
+2. Look at the screenshot and understand the layout and design of it.
+3. Gather font and color and apply it to the html and CSS
+4. Make the site look as close as the screenshot as possible
+5. Launch it on Netlify
 
 ### Built with
 
